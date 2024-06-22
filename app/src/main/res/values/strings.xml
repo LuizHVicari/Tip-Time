@@ -5,7 +5,7 @@
     <string name="radiobutton_18">Good (18%)</string>
     <string name="radiobutton_15">Okay (15%)</string>
     <string name="cost_of_service">Cost of service</string>
-    <string name="textview">TextView</string>
+    <string name="textview">How good was the service?</string>
     <string name="round_up_tip">Round up tip?</string>
     <string name="tip_amount_s">Tip Amount: %s</string>
 </resources>
